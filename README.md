@@ -1,5 +1,5 @@
 # BTD600_Downgrade
-Instructions for downgrading the Sennheiser BTD600 adapter. Note that I will not take any responsibility in case anything should go wrong - do this at your own peril! I have switched to all the available versions myself, but I cannot guarantee anything.  
+Instructions for downgrading the Sennheiser BTD600 adapter.<br>Note that I will not take any responsibility in case anything should go wrong - do this at your own risk! I have switched to all the available versions myself, but I cannot guarantee anything.  
 
 # Steps:
 * Download the official Sennheiser updater for Windows from: https://www.sennheiser-hearing.com/btd600-license-agreement and extract. Open it and make sure the version number in the title bar says 1.0.9. Close when done.
